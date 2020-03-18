@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
             )
             spinner.adapter = adapter
 
+            println("Hallo Mario!!!")
+
 
         }
     }
