@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spielwiese</string>
+
+    <string-array name="spinner">
+        <item>eins</item>
+        <item>zwei</item>
+    </string-array>
+</resources>
