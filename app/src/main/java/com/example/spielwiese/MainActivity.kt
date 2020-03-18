@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
             val adapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, myString
             )
             spinner.adapter = adapter
+
         }
     }
 }
