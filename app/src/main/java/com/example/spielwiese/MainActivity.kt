@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             spinner.adapter = adapter
 
             button.text = "Hallo Stefan"
+            println("TestBranch")
 
 
         }
