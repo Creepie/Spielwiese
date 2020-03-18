@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
             )
             spinner.adapter = adapter
 
+
         }
     }
 }
